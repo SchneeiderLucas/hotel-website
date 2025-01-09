@@ -25,6 +25,6 @@ Contribuição
 Se você deseja contribuir com melhorias para o projeto ou adicionar novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request. Sua contribuição ajudará a enriquecer a experiência de navegação em um site de hospedagens.
 
 Autor
-Wesley Victor - https://github.com/SchneeiderLucas
+Lucas Schneider - https://github.com/SchneeiderLucas
 Licença
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
